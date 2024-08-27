@@ -1,0 +1,58 @@
+.container{
+   width:"1920px";
+   height: "2738px"; 
+   background-color: #EEEEEE;  
+   padding: 5px;              
+}
+.layout{
+   display: flex; 
+   flex-wrap: wrap;                
+}
+.card{
+    background-color: #FFFFFF;  
+    width: 450px;
+    height: 637px;
+    border-radius: 10px;  
+    margin: 5px;
+    margin-left: 35px;
+    margin-bottom: 30px;
+   
+}
+.card img{
+    width: 450px;
+    height: 343.8px;
+    border-radius: 10px;                
+}
+
+.card .username{
+    /* width: 298px; */
+    padding-left:100px ;
+    height: 39px;
+    top: 732px;
+    left: 100px; 
+    font-size: 32px;
+    line-height: 31.73px;
+    font-weight: 400;   
+    text-align: left;         
+}
+.card .email{
+    width: 121px;
+    height: 29px;
+    padding-left: 100px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 20.05px;               
+}
+
+.card p{
+    padding-left: 100px;
+    text-align: left;
+    /* width: 121px; */
+    height: 25px; 
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 21.05px;               
+}
+
+
+
